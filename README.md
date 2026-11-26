@@ -117,11 +117,14 @@ const ammar = {
 ## 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmmarDalel&show_icons=true&hide_border=true&bg_color=0B1530&title_color=3B9DFF&icon_color=1E90FF&text_color=E2E8F0" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarDalel&layout=compact&hide_border=true&bg_color=0B1530&title_color=3B9DFF&text_color=E2E8F0" alt="Top languages"/>
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmmarDalel&hide_border=true&background=0B1530&ring=1E90FF&fire=3B9DFF&currStreakLabel=3B9DFF&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmmarDalel&bg_color=0B1530&color=3B9DFF&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=true&custom_title=Contribution%20graph" alt="Contribution graph"/>
 </p>
 
 ## 🏅 Recognition
