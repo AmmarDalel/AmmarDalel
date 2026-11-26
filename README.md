@@ -11,9 +11,7 @@
   <!-- TODO: vérifiez que l'URL LinkedIn correspond à votre profil -->
   <a href="https://www.linkedin.com/in/ammardalel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ammardalel07@gmail.com"><img src="https://img.shields.io/badge/Email-0B1530?style=for-the-badge&logo=gmail&logoColor=3B9DFF" alt="Email"/></a>
-  <!-- TODO: décommentez et ajoutez l'URL de votre portfolio
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0B1530?style=for-the-badge&logo=vercel&logoColor=3B9DFF" alt="Portfolio"/></a>
-  -->
+  <a href="https://myportfolio-next-js.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1530?style=for-the-badge&logo=vercel&logoColor=3B9DFF" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/📍_Monastir-Tunisia-1E90FF?style=for-the-badge&labelColor=0B1530" alt="Location"/>
   <img src="https://img.shields.io/badge/Open_to-Full--Stack_roles-22C55E?style=for-the-badge&labelColor=0B1530" alt="Open to full-stack roles"/>
 </p>
@@ -104,31 +102,12 @@ const ammar = {
 
 ## 🚀 Selected projects
 
-<!-- TODO: remplacez chaque lien par l'URL du dépôt, ex. https://github.com/AmmarDalel/your-repo-name -->
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>✅ <a href="https://github.com/AmmarDalel?tab=repositories">TodoList (T3 stack)</a></h3>
-      Authenticated task manager with a type-safe API from database to UI.<br/><br/>
-      <code>Next.js</code> <code>tRPC</code> <code>Drizzle</code> <code>PostgreSQL</code> <code>NextAuth</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/AmmarDalel?tab=repositories">Personal portfolio</a></h3>
-      Modern, responsive portfolio site.<br/><br/>
-      <code>Next.js</code> <code>shadcn/ui</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏫 <a href="https://github.com/AmmarDalel?tab=repositories">ISIMM web app</a></h3>
-      Responsive interface for students and teachers.<br/><br/>
-      <code>React</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✈️ <a href="https://github.com/AmmarDalel?tab=repositories">Travel agency site</a></h3>
-      Interactive landing page.<br/><br/>
-      <code>React</code>
+    <td valign="top">
+      <h3>🖼 <a href="https://github.com/AmmarDalel/Baniera">Baniera</a></h3>
+      Centralized management platform for advertising banners and carousels, with authentication and multilingual support.<br/><br/>
+      <code>Next.js</code> <code>tRPC</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>NextAuth</code> <code>next-intl</code>
     </td>
   </tr>
 </table>
