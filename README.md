@@ -11,7 +11,7 @@
   <!-- TODO: vérifiez que l'URL LinkedIn correspond à votre profil -->
   <a href="https://www.linkedin.com/in/ammardalel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ammardalel07@gmail.com"><img src="https://img.shields.io/badge/Email-0B1530?style=for-the-badge&logo=gmail&logoColor=3B9DFF" alt="Email"/></a>
-  <a href="https://myportfolio-next-js.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1530?style=for-the-badge&logo=vercel&logoColor=3B9DFF" alt="Portfolio"/></a>
+  <a href="https://dalel-ammar-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1530?style=for-the-badge&logo=vercel&logoColor=3B9DFF" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/📍_Monastir-Tunisia-1E90FF?style=for-the-badge&labelColor=0B1530" alt="Location"/>
   <img src="https://img.shields.io/badge/Open_to-Full--Stack_roles-22C55E?style=for-the-badge&labelColor=0B1530" alt="Open to full-stack roles"/>
 </p>
